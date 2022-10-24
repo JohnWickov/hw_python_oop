@@ -67,4 +67,4 @@ class CashCalculator(Calculator):
             return f'На сегодня осталось {cash_remained} {sign}'
         cash_remained = abs(cash_remained)
         return f'Денег нет, держись: твой долг - {cash_remained} {sign}'
-//1
+//1123
